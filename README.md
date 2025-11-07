@@ -129,3 +129,19 @@ L = \lambda_{\text{reg}} L_{\text{MSE}} + \lambda_{\text{cls}} L_{\text{CE}} + \
 - Grad-CAM on vision stream  
 
 ---
+##  Challenges & Limitations
+
+- **Bias:** Dataset demographics may lead to skewed or unfair model predictions.  
+- **Privacy:** This project uses only **publicly available and consented datasets**; no private or personally identifiable data is collected or stored.  
+- **Misuse Prevention:** The developed models are strictly for **academic research and educational purposes**. They are **not intended** for deployment in sensitive or surveillance-based applications.
+
+---
+
+## Acknowledgements
+
+We gratefully acknowledge the foundational contributions of the following works:
+
+- Zadeh et al., *CMU-MOSEI Dataset*  
+- Tsai et al., *Multimodal Transformer for Unaligned Multimodal Language Sequences*  
+- Baevski et al., *wav2vec 2.0*  
+- Dosovitskiy et al., *Vision Transformer (ViT)*  
