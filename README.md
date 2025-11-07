@@ -129,13 +129,3 @@ L = \lambda_{\text{reg}} L_{\text{MSE}} + \lambda_{\text{cls}} L_{\text{CE}} + \
 - Grad-CAM on vision stream  
 
 ---
-
-##  Setup & Installation
-
-```bash
-# 1. Create environment
-conda create -n dl_multimodal python=3.10
-conda activate dl_multimodal
-
-# 2. Install dependencies
-pip install -r requirements.txt
