@@ -47,7 +47,7 @@ where \(y\) includes:
 
 ---
 
-## 📚 Datasets
+##  Datasets
 
 **Primary dataset**
 - **CMU-MOSEI**
